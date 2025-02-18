@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "RDC",
+    "username": "DC",
+    "timestamp": "2h ago",
+    "content": "This is a post with #react and #javascript.",
+    "image": "https://placehold.co/400",
+    "likes": 10
+  },
+  {
+    "id": 2,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "JD",
+    "username": "JDR",
+    "timestamp": "2h ago",
+    "content": "This is a post with #react.",
+    "image": "https://placehold.co/400",
+    "likes": 5
+  },
+  {
+    "id": 3,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "MBR",
+    "username": "MB",
+    "timestamp": "2h ago",
+    "content": "This is a post with #shopify and #javascript.",
+    "image": "https://placehold.co/400",
+    "likes": 12
+  },
+  {
+    "id": 4,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "MR",
+    "username": "MR",
+    "timestamp": "2h ago",
+    "content": "This is a post with #shopify.",
+    "image": "https://placehold.co/400",
+    "likes": 2
+  },
+  {
+    "id": 5,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "RDC",
+    "username": "DC",
+    "timestamp": "2h ago",
+    "content": "This is a post with #liquid #shopifyplus.",
+    "image": "https://placehold.co/400",
+    "likes": 10
+  },
+  {
+    "id": 6,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "JD",
+    "username": "JDR",
+    "timestamp": "2h ago",
+    "content": "This is a post with #javascript.",
+    "image": "https://placehold.co/400",
+    "likes": 5
+  },
+  {
+    "id": 7,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "MBR",
+    "username": "MB",
+    "timestamp": "2h ago",
+    "content": "This is a post with #liquid #shopifyplus.",
+    "image": "https://placehold.co/400",
+    "likes": 12
+  },
+  {
+    "id": 8,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "MR",
+    "username": "MR",
+    "timestamp": "2h ago",
+    "content": "This is a post with #shopify.",
+    "image": "https://placehold.co/400",
+    "likes": 2
+  },
+  {
+    "id": 9,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "RDC",
+    "username": "DC",
+    "timestamp": "2h ago",
+    "content": "This is a post with #shopifyApp.",
+    "image": "https://placehold.co/400",
+    "likes": 10
+  },
+  {
+    "id": 10,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "JD",
+    "username": "JDR",
+    "timestamp": "2h ago",
+    "content": "This is a post with #react.",
+    "image": "https://placehold.co/400",
+    "likes": 5
+  },
+  {
+    "id": 11,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "MBR",
+    "username": "MB",
+    "timestamp": "2h ago",
+    "content": "This is a post with #App.",
+    "image": "https://placehold.co/400",
+    "likes": 12
+  },
+  {
+    "id": 12,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "MR",
+    "username": "MR",
+    "timestamp": "2h ago",
+    "content": "This is a post with #react and #shopify.",
+    "image": "https://placehold.co/400",
+    "likes": 2
+  },
+  {
+    "id": 13,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "RDC",
+    "username": "DC",
+    "timestamp": "2h ago",
+    "content": "This is a post with #shopifyplus #javascript.",
+    "image": "https://placehold.co/400",
+    "likes": 10
+  },
+  {
+    "id": 14,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "JD",
+    "username": "JDR",
+    "timestamp": "2h ago",
+    "content": "This is a post with #liquid and #javascript.",
+    "image": "https://placehold.co/400",
+    "likes": 5
+  },
+  {
+    "id": 15,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "MBR",
+    "username": "MB",
+    "timestamp": "2h ago",
+    "content": "This is a post with #react and #javascript.",
+    "image": "https://placehold.co/400",
+    "likes": 12
+  },
+  {
+    "id": 16,
+    "profilePicture": "https://placehold.co/20",
+    "profileName": "MR",
+    "username": "MR",
+    "timestamp": "2h ago",
+    "content": "This is a post with #react and #javascript.",
+    "image": "https://placehold.co/400",
+    "likes": 2
+  }
+]
