@@ -60,30 +60,6 @@ Implemented with React Router:
    http://localhost:5173
    ```
 
-## Deployment
-- Deploy on [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or GitHub Pages.
-- Ensure all features work before submitting the deployed link.
-
-## Code Quality & Best Practices
-- Proper state management & separation of concerns
-- Clean folder structure & modular components
-
-## Bonus Features
-- Lazy Load Images for performance optimization
-- Dark Mode Support
-
-## Timeline
-- **Deadline**: 4 Days from Task Assignment
-
-## Evaluation Criteria
-| Criteria | Weightage |
-|----------|-----------|
-| Functionality (Likes, Filtering, Pagination, URL Handling) | 30% |
-| UI & UX (Responsiveness, Smooth Navigation) | 20% |
-| State Management (Efficiency & Persistence) | 20% |
-| Performance Optimization (Lazy Loading, Debouncing) | 15% |
-| Code Quality (Best Practices, Modular Components) | 10% |
-| Deployment & Documentation | 5% |
 
 ## link
 https://twitter-feeds.netlify.app/
