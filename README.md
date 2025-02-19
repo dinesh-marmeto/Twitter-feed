@@ -23,7 +23,7 @@ Each post contains:
   - If a user is on page 3 and presses back, they return to page 2, maintaining scroll position.
 
 ### 3. State Management
-- Uses Context API or Redux for managing post state.
+- Uses Context API for managing post state.
 - Persists like counts & selected filters using local storage.
 
 ### 4. Routing & Navigation
@@ -85,12 +85,5 @@ Implemented with React Router:
 | Code Quality (Best Practices, Modular Components) | 10% |
 | Deployment & Documentation | 5% |
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributors
-- **Your Name** - [GitHub Profile](https://github.com/your-username)
-
-## Contact
-For any queries, contact me at [your-email@example.com](mailto:your-email@example.com).
-
+## link
+https://twitter-feeds.netlify.app/
